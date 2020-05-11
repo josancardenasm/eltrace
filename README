@@ -1,0 +1,17 @@
+/*******************************************/
+Author: José Antonio Cárdenas Montero   
+
+Email: jacarmon@outlook.com
+/*******************************************/
+
+ELTRACE (EASY LINUX TRACE)
+
+Based on lttng framework. 
+
+
+/************************************************/
+Prerequisites: 
+
+- lttng-tools
+
+
